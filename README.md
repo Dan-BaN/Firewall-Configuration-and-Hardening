@@ -8,7 +8,6 @@ Configure and secure Windows Firewall to monitor and filter network traffic, ens
 - Implemented IP filtering and port-based access control.
 - Enabled logging and monitoring of network activity.
 - Disabled unnecessary services to harden firewall settings.
-- Conducted penetration testing to evaluate firewall effectiveness.
 
 ## 💡 Tools Used
 - Windows Firewall (Windows 10/11)
@@ -26,4 +25,4 @@ The firewall was successfully hardened to block unauthorized access, demonstrati
 
 ## 📎 Author
 **Dhanuka Bulathsinghala**  
-[LinkedIn](https://www.linkedin.com/in/YOUR_USERNAME)  
+[LinkedIn]([https://www.linkedin.com/in/YOUR_USERNAME](https://www.linkedin.com/in/dhanuka-bulathsinghala-a67022105/))  
