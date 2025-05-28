@@ -16,7 +16,7 @@ Configure and secure Windows Firewall to monitor and filter network traffic, ens
 - Telnet
 
 ## 📸 Screenshots
-Screenshots of firewall configuration and testing are available in the `screenshots` folder.
+screenshot1.png
 
 ## ✅ Outcome
 The firewall was successfully hardened to block unauthorized access, demonstrating expertise in network security, access control, and firewall configuration.
