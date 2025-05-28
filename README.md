@@ -17,6 +17,12 @@ Configure and secure Windows Firewall to monitor and filter network traffic, ens
 
 ## 📸 Screenshots
 ![Image](Screenshot1.png)
+![Image](Screenshot2.png)
+![Image](Screenshot3.png)
+![Image](Screenshot4.png)
+![Image](Screenshot5.png)
+![Image](Screenshot6.png)
+![Image](Screenshot7.png)
 
 
 ## ✅ Outcome
